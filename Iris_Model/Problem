@@ -1,0 +1,7 @@
+This file contains the definition of the problem solved by the model.
+
+Using a Machine Learning Model predict the variety of the flower by its: 
+a) Sepal Length.
+b) Sepal Width.
+c) Petal Length.
+d) Petal Width.
